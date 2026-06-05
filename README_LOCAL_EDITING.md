@@ -1,36 +1,30 @@
 # Local Editing Guide
 
-This folder is organized so the dashboard can be edited and republished locally.
+This folder is the working package for the DOT RIP dashboard.
 
-## Main Folders
+## Current Structure
 
-- `site/` is the GitHub Pages-ready website.
-- `site/index.html` is the page shell.
-- `site/assets/css/site.css` contains the dashboard styles.
-- `site/assets/js/app.js` contains the dashboard JavaScript.
-- `site/assets/data/onlineData.json` contains the dashboard data.
-- `outputs/` stores generated deliverables (PPTX/XLSX/CSV/HTML) that were previously in the folder root.
+- `site/` is the live dashboard source used for hosting.
+- `site/index.html` is the only HTML page to keep for the dashboard.
+- `site/assets/css/site.css` contains styles.
+- `site/assets/js/app.js` contains dashboard logic.
+- `site/assets/data/` contains JSON data used by the page.
+- `outputs/` stores generated deliverables (PPTX/XLSX/CSV).
 - `extracts/` stores extracted text artifacts (state risk page extracts and scoring candidate lists).
-- `scripts/` contains repeatable local PowerShell scripts.
-- `pdf_downloads/` contains downloaded PDF sources.
-- `csv_data/` contains CSV datasets and audit files.
-- `html_outputs/` contains original HTML exports.
+- `pdf_downloads/` stores downloaded plan PDFs.
+- `csv_data/` stores audit/source CSV files.
+- `scripts/` stores helper PowerShell scripts.
+- `.github/workflows/pages.yml` deploys GitHub Pages via GitHub Actions.
 
-## Useful Commands
+## Notes
 
-Run these commands from this project folder in PowerShell.
+- Keep only one dashboard HTML: `site/index.html`.
+- `index.html` at this folder root redirects to `site/` for GitHub Pages root access.
+- The old `html_outputs/` folder is not required in the current hosted flow.
 
-```powershell
-.\scripts\organize_files.ps1
-```
+## Local Preview
 
-Rebuild `site/` from the original HTML export and split CSS, JS, and JSON into editable local files:
-
-```powershell
-.\scripts\prepare_site.ps1
-```
-
-Preview the site locally:
+Run from this project folder:
 
 ```powershell
 .\scripts\preview_site.ps1
@@ -38,12 +32,35 @@ Preview the site locally:
 
 Then open `http://localhost:8000/`.
 
-Publish the `site/` folder to an existing GitHub repository:
+## Optional Maintenance Scripts
+
+Organize loose root files by extension:
 
 ```powershell
-.\scripts\publish_github_pages.ps1 -RemoteUrl "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git"
+.\scripts\organize_files.ps1
 ```
 
-After pushing, enable GitHub Pages in GitHub:
+Rebuild `site/` from a source export HTML (legacy workflow):
 
-`Settings > Pages > Deploy from a branch > main > /root`
+```powershell
+.\scripts\prepare_site.ps1
+```
+
+## GitHub Pages
+
+This repo is configured for GitHub Actions deployment (not branch-folder deployment).
+
+In GitHub:
+
+- `Settings > Pages > Build and deployment > Source = GitHub Actions`
+
+## Sync To GDOT_RIP (dot rip folder only)
+
+From the parent repo root (`C:\Users\xings\Desktop`), after committing changes:
+
+```powershell
+git subtree split --prefix="dot rip" main
+git push gdot <SPLIT_COMMIT>:main --force
+```
+
+Where `gdot` points to `https://github.com/sxing0731/GDOT_RIP.git`.
