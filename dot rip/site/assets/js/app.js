@@ -1026,7 +1026,7 @@ async function loadDashboardData() {
     }
 
     async function init() {
-      applyTheme(localStorage.getItem("dotRipTheme") || "dark");
+      applyTheme(localStorage.getItem("dotRipTheme") || "day");
       $("themeToggle").addEventListener("click", () => {
         applyTheme(document.body.classList.contains("dark") ? "day" : "dark");
       });
