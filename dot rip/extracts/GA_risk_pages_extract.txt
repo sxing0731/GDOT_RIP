@@ -1,0 +1,721 @@
+--- page 3 ---
+        Resilience Improvement Plan  
+ 
+ 
+2 | P a g e  
+ 
+List of Figures 
+ 
+Figure 1: GDOT RIP Goals ................................ ................................ ................................ ........ 9 
+Figure 2:  GDOT Emergency Project Spending (FY 2016- FY 2020) ................................ .........11 
+Figure 3:  Total Estimated Emergency Spending ................................ ................................ ......11 
+Figure 4:  Peer Review Inventory ................................ ................................ .............................. 14 
+Figure 5 Projected Changes to Temperature Extremes at a 2°C (3.6°F) Increase in Global 
+Temperatures ................................ ................................ ................................ ...........................27 
+Figure 6 Projected Changes to Precipitation Extremes at a 2°C (3.6°F) Increase in Global 
+Temperatures ................................ ................................ ................................ ...........................27 
+Figure 7 Sea Level Trends (1993-2020) ................................ ................................ ....................28 
+Figure 8 Projected Future Transportation Infrastructure Costs by Proactive Adaptation ............29 
+Figure 9: Relationship Between Key Resilience Components ................................ ...................30 
+Figure 10: Climate Hazard Exposure - Score Categories based on Hot Spot Analysis Results .31 
+Figure 11:  Climate Hazard Exposure - Weights from Hazard-Asset Pairs with Failure 
+Mechanisms ................................ ................................ ................................ .............................. 31 
+Figure 12:  Factors for Estimating Criticality Score ................................ ................................ ....33 
+Figure 13:  Asset Prioritization Matrix ................................ ................................ ........................34 
+Figure 14: Vulnerability Results ................................ ................................ ................................ .36 
+Figure 15: Risk Results ................................ ................................ ................................ .............37 
+Figure 16: General Screening Approach ................................ ................................ ...................40 
+Figure 17:  Primary Work Types Screening Tiers ................................ ................................ ......41 
+ 
+List of Tables 
+ 
+Table 1:  2050 SWTP/2021 SSTP Investment Categories ................................ ........................16 
+Table 2:  Existing State Laws Associated with Resilience ................................ .........................23 
+Table 3:  National Resilience Tools and Data ................................ ................................ ............24 
+Table 4: RIP Performance Metrics ................................ ................................ ............................39 
+Table 5:  Projects Recommended for PROTECT Funding (FY 24 – FY 34) .............................. 42 
+Table 6.  Projects Approved for PROTECT funding by FHWA as of October 2024 ...................47 
+ 
+
+--- page 4 ---
+        Resilience Improvement Plan  
+ 
+ 
+3 | P a g e  
+ 
+Executive Summary 
+The Georgia Department of Transportation (GDOT) is committed to building and maintaining 
+transportation infrastructure designed to withstand  and/or rapidly recover from the impacts 
+associated with hazard or extreme events. 
+This Resilience Improvement Plan (RIP) establishes GDOT’s resilience goals; outlines existing 
+resilience best practices, efforts, laws, and tools; assesses risk and vulnerability of the state’s 
+transportation network; recommends resilience improvement policies and strategies; sets targets; 
+and includes a prioritized list of projects eligible for Promoting Resilient Operations for 
+Transformative, Efficient, and Cost-Saving Transportation (PROTECT) Formula Program funds.   
+The plan was developed within the framework of the GDOT 2050 Statewide Transportation Plan 
+/Statewide Strategic Transportation Plan (SWTP/SSTP) and aligned with the Transportation 
+Asset Management Plan. This framework is as follows: 
+FOUNDATIONAL 
+ 
+ 
+• Reduce risk to transportation infrastructure, operations, disadvantaged 
+populations, and aged individuals. 
+• Determine which hazards pose the highest risk and the areas of those risks 
+• Prioritize projects within high-risk/high hazard areas  
+CATALYTIC 
+ 
+• Ensure today’s investments meet tomorrow’s growth 
+• Promote investments minimizing or reducing operational and response costs 
+• Ensure investments are not creating new risks 
+INNOVATION 
+ 
+ 
+• Collaboration with federal and state partners to address and reduce 
+transportation network risk 
+• Build on vulnerability assessment and the Multi-Hazards Exposure and 
+Vulnerability Analysis Tool (MHEVRA) to identify existing and future risks  
+• Promote investments in natural infrastructure to minimize future risks  
+ 
+Within the framework of these foundational, catalytic, and innovation goals, the state of Georgia’s 
+infrastructure leads the nation.  Ranked #1 in the country and graded A+ for the best infrastructure 
+by CNBC1, 98% of the bridges and 94% of the roadways in the state are in acceptable condition.  
+The RIP will add an enhanced resilience lens in maintaining the state’s transportation assets. 
+The plan development process included establishment of a Resiliency Committee, a peer review, 
+and a detailed review of existing resilience policies, laws, and tools.  A focal point of the RIP is a 
+Climate Vulnerability, Risk, and Resilience Assessment  of Georgia’s pavements, bridges, and 
+culverts developed by Georgia Tech for GDOT as a research study.  
+The RIP recommends strategies to increase the resilience of the transportation system.  The 
+strategies address the planning process  through transportation system management and 
+operations.  
+ 
+1 https://www.cnbc.com/2023/07/18/these-are-americas-best-states-for-infrastructure.html 
+ 
+
+--- page 5 ---
+        Resilience Improvement Plan  
+ 
+ 
+4 | P a g e  
+ 
+The focus of the RIP is identifying vulnerabilities through a risk -based assessment and how the 
+plan improves the ability to respond to events.  Performance metrics were developed based on 
+the plan goals and findings from the Assessment.  These metrics will be used to track progress 
+towards continuing to make the transportation system more resilient over time.  The metrics focus 
+on the criticality of the infrastructure assets, which is the importance or value of the asset, in terms 
+of the cost to users, owners, and society from a loss in function.  A critical asset is an asset that 
+is so important to a study area that its removal would result in significant losses.  The metrics also 
+focus on the vulnerability of the assets, which is the degree to which a system is susceptible to, 
+or unable to handle the adverse effects of extreme weather events 
+These performance measures are aligned with the foundational, catalytic, and innovati on goals 
+identified for ensuring a resilient transportation system.  With the identification of the high hazard 
+areas and infrastructure ranked with high vulnerability and high criticality, the risk to the mobility 
+of the state’s residents is reduced; and identifies opportunities for  investments on those areas 
+with the greatest impact on improving resiliency.  
+ 
+ A detailed screening based on the  project eligibility criteria in the PROTECT legislation  of all 
+projects included in Statewide Transportation Improvement Program (STIP)  was conducted  
+utilizing the approved FHWA form  found in Appendix B. In addition, the projects included in the 
+Transportation Improvement Programs (TIP)/Metropolitan Transportation Plans (MTP) for each 
+Metropolitan Planning Organization (MPO) in the state were also screened utilizing the form.   The 
+next step in the process is for the projects determined to be eligible through the screening to be 
+reviewed by both the GDOT Resiliency Committee and FHWA for concurrence. However, since 
+this plan is dynamic and projects will be continuously reviewed and evaluated and new eligible 
+projects identified, it is likely that the projects eligible for PROTECT funding will exceed available 
+funding and that a system for determining the allocation of PROTECT funding to projects will be 
+needed.    
+ 
+As a result, GDOT developed an initial methodology to score projects based on each asset’s 
+dynamic risk (product of criticality and dynamic vulnerability) determined using an Asset 
+Prioritization Matrix developed by Georgia Tech.  
+ 
+ 
+
+--- page 6 ---
+        Resilience Improvement Plan  
+ 
+ 
+5 | P a g e  
+ 
+.  
+Source:  Incorporating Resilience Considerations in Transportation Planning, TSMO, and Asset Management Draft Final Report, 
+GA Tech 
+ 
+The RIP and associated eligible and prioritized project lists are dynamic and will be updated as 
+needed to ensure features such as new data and data sources, new projects, changes in priorities, 
+and new guidance are incorporated into future iterations.   
+Additionally, GDOT will review the updated STIP to see if there have been any changes to projects 
+determined eligible for STIP funding and if those changes affect PROTECT funding eligibility.  
+GDOT will also identify new projects that need to be screened, reviewed by the GDOT Resiliency 
+Committee for a recommendation, and sent to FHWA for an eligibility determination. GDOT will 
+update its project list accordingly. 
+
+--- page 7 ---
+        Resilience Improvement Plan  
+ 
+ 
+6 | P a g e  
+ 
+Definitions 
+Adaptive Capacity: Ability of a system to adjust, repair, and respond to damage or disruption. 
+Criticality: Importance or value of infrastructure asset, in terms of the cost to users, owners, and 
+society from a loss in function.  A critical asset is an asset that is so important to a study area that 
+its removal would result in significant losses.2 
+Disadvantaged Populations: Populations who belong to disadvantaged communities that are 
+affected by high poverty, low wealth, low educational attainment, insufficient local jobs, high 
+inequality, and low homeownership. Typically measured at the census tract level, these 
+populations can also include people who are historically burdened by lack of access to 
+transportation, health care, environmental quality, and economic opportunities, among others.3 
+Discretionary Fundin g: Money allocated through an nual appropriations bill s and typically 
+assigned to projects via competitive processes such as grant programs.  PROTECT discretionary 
+funding is highly competitive and available to entities and projects based on eligibility. 
+Executive Order: An official directive from the U.S. president to federal agencies.  
+Exposure: Whether an asset or system is in an area experiencing direct effects of extreme 
+natural, technological, or human-caused hazards.  
+Formula Funding: Federal funds distributed to states by a statutory formula. 
+Hazard: A source of potential danger or adverse condition.  
+Infrastructure Investment and Jobs Act (IIJA)/Bipartisan Infrastructure Law (BIL): A law that 
+reauthorizes surface transportation projects for five years and  provides $550 billion over fiscal 
+years 2022 through 2026 in new federal funds for infrastructure, with half of that funding going to 
+transportation.4 
+Metropolitan Transportation Plan  (MTP): A comprehensive blueprint for area transportation 
+services aimed at meeting mobility needs through the next 20+ years. 
+National Highway Performance Program (NHP P): A program that provides support for the 
+condition and performance of the, for the construction of new facilities on the NHS, and to ensure 
+that investments of Federal -aid funds in highway construction are directed to support progress 
+toward the achievement of performance targets established in a state’s asset management plan 
+for the NHS. 
+National Highway System (NHS): Roadways important to the nation’s economy, defense, and 
+mobility.5 
+ 
+2 Georgia Tech research is based on NCHRP Research Report 970. 
+(https://nap.nationalacademies.org/catalog/26125/mainstreaming-system-resilience-concepts-into-
+transportation-agencies-a-guide) 
+3 SS4A Underserved Communities Census Tracts (Historically Disadvantaged Communities) (arcgis.com)  
+4 https://www.phmsa.dot.gov/legislative-mandates/bipartisan-infrastructure-law-bil-infrastructure-investment-
+and-jobs-act-iija 
+5 https://www.fhwa.dot.gov/planning/national_highway_system/  
+
+--- page 8 ---
+        Resilience Improvement Plan  
+ 
+ 
+7 | P a g e  
+ 
+Natural Hazard: A natural phenomenon that can produce damaging disruptions to systems and 
+their functionality, such as hurricanes, flooding, and wind. 
+Promoting Resilient Operations for Transformative, Efficient, and Cost -Saving 
+Transportation (PROTECT) Program: A program, with both formula and discretionary funding 
+sources, initiated through the BIL to make transportation infrastructure more resilient to weather 
+events and other natural disasters by focusing on resilience planning, making resilience 
+improvements to existing transportation assets and evacuation routes, and addressing at -risk 
+highway infrastructure. 
+Resilience: The ability to anticipate, prepare for, adapt to changing conditions and withstand, 
+respond, and recover rapidly from disruptions. 
+Risk: A combination of the likelihood that an asset will experience an extreme event’s impact, 
+and the severity or consequence of that impact. Risk can also be defined as the potential for harm 
+expressed as the product of the probability and the consequence of an event and often expressed 
+in relative term as high, moderate, and low.6  
+Sensitivity: Whether the asset may be damaged or disrupted by a stressor.  The more sensitive 
+an asset, the more likely it is to be damaged or disrupted by a stressor. 
+State Long Range Transportation Plan (SLRTP) : A long-range plan that assesses a state’s 
+multimodal transportation system and presents plans for improvement and maintenance. 
+Strategic Highway Netwo rk (STRAHNET): The network of highways, including the Interstate 
+System that provides connecting routes to military installations, industries, and resources. It is a 
+subset of the NHS and important to the United States' strategic defense policy by providing 
+defense access, continuity and emergency capabilities for defense purposes. 
+Statewide Strategic Transportation Plan (S STP): The SSTP is a state mandated plan that 
+includes the overall transportation investment strategies focused on advancing economic growth 
+in the state. 
+Statewide Transportation Plan (SWTP): The SWTP is a federally required long-range plan that 
+assesses the state’s multimodal transportation system and presents plans for improvements and 
+maintenance through a minimum horizon of twenty years. 
+Statewide Transportation Improvement Program (STIP): The STIP is the state’s four-year 
+transportation program that includes all federally funded transportation projects located outside 
+of the Metropolitan Planning Organization (MPO) boundaries.  Each MPO develops their own 
+Transportation Improvement Program (TIP), which are included in the STIP by reference. 
+Transportation Asset Management (TA M): A strategic and systematic process of operating, 
+maintaining, upgrading, and expanding physical assets effectively throughout their life cycle. It 
+focuses on business and engineering practices for resource allocation and utilization, with the 
+objective of better decision making based upon quality information and well-defined objectives. 
+Transportation Systems Management and Operations ( TSMO): Integrated strategies to 
+optimize the performance of existing infrastructure through the implementation of multimodal and 
+ 
+1GDOT 2050 STP/2020 SSTP Resilience Analysis 
+
+--- page 26 ---
+        Resilience Improvement Plan  
+ 
+ 
+25 | P a g e  
+ 
+Tool/Data Agency Description 
+Digital Coast NOAA Website that provides coastal data as well as tools, 
+training, and information to make the data useful.  Tools 
+include Climate Mapping for Resilience and Adaptation 
+Assessment Tool, Coastal Resilience Evaluation and Siting 
+Tool, and Coastal Change Hazards Portal.  
+Climate.data.gov US General 
+Services 
+Administration 
+(GSA) 
+Provides data related to climate that can help inform and 
+prepare communities, businesses, and citizens.  Also 
+includes data and resources related to coastal flooding, 
+food resilience, water, ecosystem vulnerability, human 
+health, energy infrastructure, and transportation. 
+Sea Level Tracker US Army Corps of 
+Engineers 
+(USACE) 
+Shows actual sea level vs. the project sea level change 
+and depicts the rate of sea level change currently being 
+observed at the selected gauge. 
+U.S. Drought 
+Portal 
+NOAA (NIDIS and 
+NCEI) 
+The U.S. Drought Portal is a website that serves as a one-
+stop shop for data, decision-support products, resources, 
+and information on drought. 
+North American 
+Drought Monitor 
+(NADM) 
+NOAA A cooperative effort between drought experts in Canada, 
+Mexico, and the US to monitor drought across the 
+continent.  Updated monthly.   
+Vulnerability 
+Assessment 
+Scoring Tool 
+(VAST) 
+US Department of 
+Transportation 
+(US DOT)/FHWA 
+An excel based tool used to identify the vulnerability of 
+transportation projects based on project type and identified 
+environmental stressors.  Vulnerability is determined by the 
+exposure, sensitivity, or adaptive capacity of the 
+transportation asset. 
+National Bridge 
+Inventory (NBI) 
+FHWA Data on the location, description, classification, and 
+general condition of the nation’s bridges located on public 
+roads, including interstate highways, state and county 
+roads, and publicly accessible bridges on federal and tribal 
+lands. 
+Overall Condition 
+Index (OCI) 
+USACE Benchmark used to measure the general condition of 
+publicly maintained streets. 
+The Climate 
+Explorer 
+The National 
+Environmental 
+Modeling and 
+Analysis Center 
+(NEMAC) at UNC-
+Asheville 
+Interactive tool that provides graphs, maps, and 
+downloadable data of observed and projected climate 
+conditions for every county in all 50 states and U.S. 
+territories. 
+Social 
+Vulnerability 
+Index (SVI) 
+Center for Disease 
+Control (CDC) 
+Agency for Toxic 
+Substances and 
+Disease Registry 
+(ATSDR) 
+A tool that identifies the social vulnerability uses 16 U.S. 
+census variables to help local officials identify communities 
+that may need support before, during, or after disasters 
+Real-time Data United States 
+Geological Survey 
+(USGS) 
+Continuously gathers and measures current conditions 
+related to earthquakes, volcanoes, floods, wildland fires, 
+landslides, and drought.  
+Pipeline Incident 
+Database 
+Pipeline and 
+Hazardous 
+Materials Safety 
+Administration 
+(PHMSA) 
+ 
+ 
+An extensive, public pipeline database available to states 
+and industry to identify and/or assess pipeline and 
+underground natural gas storage safety challenges and 
+potential solutions. 
+
+--- page 30 ---
+        Resilience Improvement Plan  
+ 
+ 
+29 | P a g e  
+ 
+Figure 8 Projected Future Transportation Infrastructure Costs by Proactive Adaptation 
+ 
+Source:  Climate Trends (globalchange.gov) 
+ 
+To proactively adapt to such temperature/precipitation change and sea level rise, GDOT worked 
+with a research team from Georgia Tech to develop a tool that can support decision making based 
+on the criticality, vulnerability, and climate risks of the state’s transportation infrastructure and 
+assets. This tool is called the multi-hazards exposure, vulnerability, and risk analysis (MHEVRA). 
+Vulnerability is a function of asset exposure, asset sensitivity, and adaptive capacity in the tool. 
+Vulnerability and criticality in turn determine the level of climate risk. Figure 9 shows relationships 
+among these key resilience components. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- page 31 ---
+        Resilience Improvement Plan  
+ 
+ 
+30 | P a g e  
+ 
+Figure 9: Relationship Between Key Resilience Components 
+ 
+ 
+The following section includes descriptions of the four resiliency factors used to determine 
+dynamic risk: 
+ 
+• Asset Exposure 
+• Asset Sensitivity 
+• Adaptive Capacity 
+• Asset Criticality 
+ 
+Asset Exposure 
+Asset exposure refers to whether an asset or system is located in an area experiencing direct 
+effects of climate variability and extreme weather events.  A multi-hazards exposure index was 
+developed based on the cumulative number of major climate/weather-related events that have 
+occurred in each county and GDOT district16 and the level of hazard activity by hazard type.  
+ 
+The exposure index is combined from hazard scores resulting from a GIS-based hot spot analysis 
+and weights capturing the specific hazards that have the potential to reduce asset performance , 
+that is, the hazard-asset pairs that have known failure mechanisms.  
+ 
+Figure 10 shows the results from the hot spot analysis  and Figure 11 shows the hazard-asset 
+pairs that have failure mechanisms. Equation 1, found on Page 28, shows how the multi-hazards 
+exposure score for pavement is calculated (a similar approach is used for bridges and culverts).  
+ 
+16 The cumulative count of major climate/weather-related events was based on the number of $billion hazard 
+events that occurred between 1960-2020.   
+
+--- page 32 ---
+        Resilience Improvement Plan  
+ 
+ 
+31 | P a g e  
+ 
+Figure 10: Climate Hazard Exposure - Score Categories based on Hot Spot Analysis Results 
+ 
+   Source:  Incorporating Resilience Considerations in Transportation Planning, TSMO, and Asset Management Draft Final Report 
+Figure 11:  Climate Hazard Exposure - Weights from Hazard-Asset Pairs with Failure Mechanisms 
+ 
+   Source:  Incorporating Resilience Considerations in Transportation Planning, TSMO, and Asset Management Draft Final Report 
+
+--- page 33 ---
+        Resilience Improvement Plan  
+ 
+ 
+32 | P a g e  
+ 
+ 
+By default, equal weights are assigned to all the hazards that can result in reduced performance 
+of a particular asset (that is, pavement, bridge , or culvert). The weights may be modified based 
+on the knowledge of local practitioners of the relative importance of specific hazards, as well as 
+their interactions, to asset and system performance.  
+Asset Sensitivity 
+Asset sensitivity refers to  whether the asset may be damaged or disrupted by a stressor. The 
+more sensitive an asset, the more likely it is to be damaged or disrupted by a stressor. 
+Asset sensitivity was determined by the condition of the asset.  T he condition of pavement was 
+determined using the Pavement Condition Index (obtained from GDOT), bridges using the Bridge 
+Sufficiency Rating, and culverts using the Culvert Condition Index  (bridge and culvert data was 
+obtained from the National Bridge Inventory)17.   
+Adaptive Capacity 
+Adaptive capacity is the ability of a system to adjust, repair, and respond to damage or disruption. 
+Adaptive capacity may be measured in various ways.  In their assessment, the Georgia Tech 
+Research Team proposed using a Resilience Rating Tool and Scorecard patterned after the 
+World Bank’s Resilience Rating System.18 
+It was assumed that all transportation districts were at the beginning stages of building adaptive 
+capacity.  As a result,  the Research Team assigned the same unit score to all seven GDOT 
+districts.  The Georgia Tech Research Team suggests more detailed self-assessments in the 
+future (at the district or local level) that consider various measures of adaptive capacity including 
+route redundancy.   
+This component is expected to, and should continue to evolve, during future resilience 
+assessments. 
+Asset Criticality 
+Asset criticality refers to the importance or value of infrastructure asset, in terms of the cost to 
+users, owners, and society from a loss in function.  
+ 
+17 https://www.fhwa.dot.gov/bridge/nbi.cfm 
+18 https://documents1.worldbank.org/curated/en/701011613082635276/pdf/Summary.pdf  
+
+--- page 34 ---
+        Resilience Improvement Plan  
+ 
+ 
+33 | P a g e  
+ 
+The asset criticality score is combined from a score using GDOT State Route Prioritization Criteria 
+shown in Figure 12 (and weighted at 80 percent) and the social vulnerability index19 (weighted at 
+20 percent) to incorporate social equity considerations into the assessment.  
+Figure 12:  Factors for Estimating Criticality Score 
+ 
+   Source:  Incorporating Resilience Considerations in Transportation Planning, TSMO, and Asset Management Draft Final Report 
+ 
+Asset Prioritization 
+The Georgia Tech Research Team used a mat rix to prioritize the assets and other system 
+elements (e.g., corridors) based on the relative urgency of need for more detailed examination to 
+address their general vulnerability to climate events (see Figure 13). The color gradient signifies 
+dynamic risk, which is the product of criticality and dynamic vulnerability.   
+ 
+19 The social vulnerability index (SVI) is a tool developed by the Centers for Disease Control and Prevention (CDC) 
+and the Agency for Toxic Substances and Disease Registry (ATSDR).  The tool refers to the potential negative 
+effects on communities caused by external stresses on human health – including natural or human-caused 
+disasters or disease outbreaks.   
+
+--- page 35 ---
+        Resilience Improvement Plan  
+ 
+ 
+34 | P a g e  
+ 
+Figure 13:  Asset Prioritization Matrix 
+   
+ Source:  Incorporating Resilience Considerations in Transportation Planning, TSMO, and Asset Management Draft Final Report 
+Assessment Results 
+The RIP relies on a risk -based assessment of the three asset types: (1) bridges, (2) pavement, 
+and (3) culverts, which are the main components of the surface transportation system. It aims to 
+build resilience by prioritizing investments where the risk is higher to the asset. By doing so, it 
+benefits any modes that are running on the surface transportation system, highway or no n-
+highway, including transit and rail.  GDOT will continue to explore additional opportunities for 
+engaging a broader group of stakeholders (including transit representatives such as MARTA and 
+the ATL Authority) in resilience discussions and assessing vulnerabilities of additional asset types 
+beyond bridges, pavements, and culverts through the Resiliency Committee.  
+The following section summarizes results for vulnerability and risk assessment. 
+Vulnerability 
+Vulnerability is defined as the degree to which a system is susceptible to, or unable to cope with 
+adverse effects of extreme weather events.  In the transportation context, climate vulnerability is 
+a function of the transportation system's exposure to climate effects, sensitivity to climate effects, 
+and adaptive capacity. 
+Based on the analysis, the highest percentage of pavement and culverts  identified as high 
+vulnerability are located in northern Georgia in Districts 7, 6, and 1 respectively. The highest 
+percentage of bridges identified as high vulnerability are also located in in northern Georgia in 
+Districts 6, 7, and 1, respectively (see Figure 14). 
+
+--- page 39 ---
+                                                                     Resilience Improvement Plan                                                                                                                                
+ 
+38 | P a g e  
+ 
+Policy and Strategy Recommendations 
+As noted in the Existing Resilience Efforts & Policies section, GDOT is already implementing 
+many strategies and actions related to resilience as part of its day-to-day operations.  This section 
+highlights potential new or additional  strategies GDOT could consider.  These strategies were 
+developed in response to the vulnerabilities and potential impacts identified in this plan.   
+The strategies address all phases of planning and managing the transportation system from 
+planning and project development through design and construction, operations and management, 
+emergency management, and into asset management and maintenance.  
+Planning 
+• Monitor and track how resilience is changing over time  
+o Monitor and regularly report resilience performance metrics found in Table 4 on 
+the following page 
+o Continually identify potential impacts to the transportation system 
+o Monitor assets or portions of the transportation system that fall within the 
+categories of high vulnerability/low criticality or low vulnerability/high criticality  
+o Continue to monitor trends in hazardous events to prepare strategies for 
+addressing potential future impacts 
+• Fill gaps in data availability or analysis capacity to better address potential impacts to the 
+transportation system 
+o Analyze assets other than roadways, bridges, and culverts 
+o Strengthen adaptative capacity data 
+o Incorporate sea level data into the risk assessment  
+o Incorporate weather projections into the risk assessment  
+• Refer to recommendations in the Incorporating Resilience Considerations in 
+Transportation Planning, TSMO, and Asset Management Draft Final Report when 
+updating the LRTP, SWTP/SSTP, TAMP, and TSMO Plan 
+• Conduct and regularly update the vulnerability assessment included in this plan based 
+on updated available evidence based or scientifically proven data and consistent 
+standards 
+• Incorporate resilience strategies into planning studies and needs assessments  
+Project Development  
+• Integrate resilience strategies into project alternatives to support purpose  
+• Conduct technical analyses of potential hazards as input to the project development 
+process   
+• Use and build upon the tools developed by Georgia Tech (Adaptive Resilience 
+Capability Maturity Model; Flexibility and Agility Scorecards; and a Resilience Rating 
+Tool and Scorecard) to self-assess and continue to develop adaptive capacity 
+• Consider the possible use of carbon reduction strategies with resilience strategies to 
+achieve more sustainable resilience in the longer term  
+ 
+ 
+
+--- page 40 ---
+                                                                     Resilience Improvement Plan                                                                                                                                
+ 
+39 | P a g e  
+ 
+Design, Materials, and Construction 
+• Evaluate project designs considering ability to withstand potential hazards and risks. 
+• Evaluate higher-quality and more resilient materials and techniques  
+• Look for opportunities to implement natural infrastructure solutions in project designs 
+• Evaluate investment strategies that reduce overall operating and response costs to 
+hazards  
+ 
+Traffic Operations and Emergency Management 
+• Consider hazards and resilience strategies in ITS and TSM&O activities 
+• Expand use of technology during major events to collect and share information with 
+emergency responders and the public 
+• Evaluate and enhance processes, procedures, and projects after hazard events 
+• Coordinate to ensure consistency between this plan and state, regional, and local 
+emergency management plans 
+Asset Management and Maintenance 
+• Evaluate infrastructure retrofit and adaptation strategies in Resurfacing, Restoration, and 
+Rehabilitation (3R) projects 
+• Develop methodologies and tools for analyzing the cost benefits of incorporating 
+resilience in asset management activities 
+• Utilize more technological capabilities and data in inspections and maintenance of 
+transportation infrastructure and assets  
+Performance Metrics 
+Performance metrics were developed based on the plan goals and baseline metrics established 
+from the asset climate and vulnerability and risk assessments completed by Georgia Tech in the 
+GDOT resilience re search project.  High vulnerability and critical a ssets were identified and 
+rounded to the nearest whole percent.  For example, the percentage of high vulnerability bridges 
+is 32% and the target is no more than 30% of the bridges should be in the high vulnerability 
+category.  These performance targets are shown in Table 4. 
+Table 4: RIP Performance Metrics 
+Performance Measure Target 
+Percentage of high vulnerability pavement 30% 
+Percentage of high vulnerability bridges 30% 
+Percentage of high vulnerability culverts 30% 
+ 
+These performance measures are aligned with the foundational, catalytic, and innovation goals 
+identified for ensuring a resilient transportation system and maintaining the nation’s leading 
+infrastructure system.  With the identification of the high hazard areas and infrastructure with 
+ranked with high vulnerability and high criticality, the risk to the mobility of the state’s residents 
+is reduced; and ensures investments on those areas with the greatest vulnerability and highest 
+criticality are met. 
+  
+
+--- page 41 ---
+                                                                     Resilience Improvement Plan                                                                                                                                
+ 
+40 | P a g e  
+ 
+Project Screening & Prioritization 
+Project Screening 
+All projects between FY 2024 and FY 2034 were screened to be included in the RIP to cover all 
+projects in the current STIP-X, the 10-year period that covers the STIP (FY 24 – FY 27), TIPs, 
+and GDOT’s current Construction Work Program (FY 25 – FY 34). As a result, the list of projects 
+included in the RIP should be considered a snapshot in time and will be periodically updated to 
+reflect the current need and the goals for resilience. The general screening approach is shown in 
+Figure 16 below. 
+Figure 16: General Screening Approach 
+ 
+ 
+Let Responsibility and Regional Priority 
+Projects that have yet moved to construction and are let by GDOT are preferred. Additionally, 
+Transportation Improvement Act (TIA) projects, projects that are approved for TIA funding by the 
+participating regional commissions, are omitted. These projects are considered regional priorities 
+that already have dedicated funding. 
+
+--- page 42 ---
+                                                                     Resilience Improvement Plan                                                                                                                                
+ 
+41 | P a g e  
+ 
+Primary Work Type 
+The RIP gives a higher priority to projects 
+whose primary purpose is to maintain and 
+rehabilitate transportation assets. These 
+projects are listed in “Tier 1 .” Projects in “Tier 
+2,” which involve  capacity and operational 
+improvements, need to be on an evacuation 
+route to be considered eligible.  Figure 17 
+shows Tier 1 and Tier 2 work type categories 
+used in the screening process. 
+Due to a large number of bridge projects, only 
+those that are unlet and that were identified by 
+the Office of Bridge Design and Maintenance 
+for the PROTECT funding were included. 
+  
+Further Assessment 
+This step further evaluates projects based on their locations such as coastal counties and FEMA 
+floodplain information to assist in prioritizing investment and/or in applying for PROTECT funding 
+using the FHWA PROTECT Eligibility Screening Form. 
+ 
+Assessment of Criticality, Vulnerability, and Risk based on Project Locations 
+o Use the Multi-Hazards Exposure, Vulnerability and Risk Assessment (MHEVRA) tool 
+where data is available. 
+o Prioritize projects using the tool (priority based on criticality/vulnerability/risk) or project 
+types where data is not available from the tool. 
+Including FEMA Flood Zone information: 
+o 1% Annual Chance of Flood Hazard (100-year Floodplain) 
+o 0.2% Annual Chance of Flood Hazard (500-year Floodplain) 
+ 
+Table 5 shows the list of projects recommended for PROTECT funding under the Resilience 
+Improvement Plan as of October 2024. 
+ 
+This screening process excludes projects that were already approved for PROTECT funding by 
+FHWA in FY 23 and FY 24 (Table 6). 
+Figure 17:  Primary Work Types Screening Tiers 
+ 
+Tier 2Tier 1
+Passing LanesBridges
+WideningShoulder Work
+Interchange Slope Repair
+Turn Lanes Resurface & Maintenance
+Signals Grade, Drain, Base & Surface
+Intersection ImprovementPavement Rehabilitation
+ITSDrainage Improvements
+Widening and ResurfacingCurb & Gutter
+Culvert
+Concrete Rehabilitation
+
+--- page 48 ---
+                                                                                                 Resilience Improvement Plan                                                                                                                                
+ 
+47 | P a g e  
+ 
+Table 6.  Projects Approved for PROTECT funding by FHWA as of October 2024  
+No. Project 
+ID 
+Description Primary 
+Work Type 
+County GDOT 
+District 
+Eligibility Type Asset 
+Type 
+Approved Amount Federal 
+Cost Share 
+1 0007055 SR 180 @ SLAUGHTER CREEK Bridges Union 1 Resilience Improvement Bridge $1,084,329.00  Incremental 
+2 0015541 SR 58 @ SQUIRREL TOWN CREEK 4 MI NE OF TRENTON Bridges Dade 6 Resilience Improvement Bridge $1,655,706.00  Incremental 
+3 0013717 SR 54 @ BEAR CREEK 3.5 MI SE OF MORELAND Bridges Coweta 3 Resilience Improvement Bridge $1,390,196.00  Incremental 
+4 0015557 SR 8/SR 174 @ HUDSON RIVER 8.8 MI N OF DANIELSVILLE Bridges Franklin 1 Resilience Improvement Bridge $1,009,224.65  Incremental 
+5 0015621 CR 454/LAMBS BRIDGE ROAD @ CANOOCHEE CREEK NE OF SWAINSBORO Bridges Emanuel 2 Resilience Improvement Bridge $984,000.00  Incremental 
+6 0015540 SR 7/US 41 @ CEDAR CREEK 1.5 MI S OF CORDELE Bridges Crisp 4 Resilience Improvement Bridge $783,841.86  Incremental 
+7 0015611 VANILLA LANE @ BIG TURNIPTOWN CREEK 4.9 MI NE OF ELLIJAY Bridges Gilmer 6 Resilience Improvement Bridge $300,221.24  Incremental 
+8 0015622 CR 454/LAMBS BRIDGE RD@LITTLE CANOOCHEE CRK NE OF SWAINSBORO Bridges Emanuel 2 Resilience Improvement Bridge $1,572,246.84  Incremental 
+9 M006391 SR 40 FROM W OF CS 599/KINGS BAY ROAD TO E OF SR 40 SPUR Resurface & 
+Maintenance 
+Camden 5 Community Resilience & Evacuation 
+Route 
+Roadway $2,641,112.63  Full 
+10 0019359 SR 144 SPUR @ OGEECHEE RIVER Bridges Bryan 5 At-Risk Coastal Infrastructure Bridge $10,075,000.00  Full 
+11 0013719 SR 38/US 84 @ DOCTORS CREEK 3 MI E OF LUDOWICI Bridges Long 5 Resilience Improvement Bridge $1,647,848.00  Incremental 
+12 0013738 SR 25 @ WHITEOAK CREEK 5 MI N OF WOODBINE Bridges Camden 5 Resilience Improvement Bridge $786,660.00  Incremental 
+13 0015601 CR 133/EBENEZER ROAD @ MUCKALEE CREEK 7.5 MI W OF ELLAVILLE Bridges Schley 3 Resilience Improvement Bridge $987,874.00  Incremental 
+14 0015615 CR 422/JEFF DAVIS ROAD @ TEN MILE CREEK 2 MI NW OF THOMASTON Bridges Upson 3 Resilience Improvement Bridge $800,000.00  Incremental 
+15 0014072 I-16 EB & WB @ WALNUT CREEK 1 MI E OF MACON Bridges Bibb 3 Resilience Improvement; Community 
+Resilience and Evacuation Route Project 
+Bridge $17,017,539.00  Full 
+16 0015641 CR 305/TYRE BRIDGE RD @ SIXTY FOOT CREEK N OF PATTERSON CITY Bridges Pierce 5 Resilience Improvement Bridge $448,000.00  Incremental 
+ 
