@@ -39,7 +39,7 @@ try {
   }
 
   & $git add .
-  & $git commit -m 'Publish DOT RIP dashboard'
+  & $git commit -m 'Publish GDOT_RIP dashboard'
   & $git push -u origin $Branch
 
   Write-Host "Pushed $SiteDir to $RemoteUrl on branch $Branch"

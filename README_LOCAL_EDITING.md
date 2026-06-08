@@ -1,10 +1,10 @@
-# Local Editing Guide
+# GDOT_RIP Local Editing Guide
 
-This folder is the working package for the DOT RIP dashboard.
+This folder is the working package for the GDOT_RIP dashboard.
 
 ## Current Structure
 
-- `site/` is the live dashboard source used for hosting.
+- `site/` is the live GDOT_RIP dashboard source used for hosting. It is not a separate Git project.
 - `site/index.html` is the only HTML page to keep for the dashboard.
 - `site/assets/css/site.css` contains styles.
 - `site/assets/js/app.js` contains dashboard logic.
@@ -15,6 +15,7 @@ This folder is the working package for the DOT RIP dashboard.
 - `csv_data/` stores audit/source CSV files.
 - `scripts/` stores helper PowerShell scripts.
 - `.github/workflows/pages.yml` deploys GitHub Pages via GitHub Actions.
+- The project should be managed from this folder as one GDOT_RIP project. Do not keep a nested `.git` folder inside `site/`.
 
 ## Notes
 
@@ -24,7 +25,7 @@ This folder is the working package for the DOT RIP dashboard.
 
 ## Local Preview
 
-Run from this project folder:
+Run from the GDOT_RIP project folder:
 
 ```powershell
 .\scripts\preview_site.ps1
@@ -54,13 +55,8 @@ In GitHub:
 
 - `Settings > Pages > Build and deployment > Source = GitHub Actions`
 
-## Sync To GDOT_RIP (dot rip folder only)
+## Git Project
 
-From the parent repo root (`C:\Users\xings\Desktop`), after committing changes:
+Use this folder as the single local project for GDOT_RIP. The `site/` folder is only the static website source that GitHub Pages deploys.
 
-```powershell
-git subtree split --prefix="dot rip" main
-git push gdot <SPLIT_COMMIT>:main --force
-```
-
-Where `gdot` points to `https://github.com/sxing0731/GDOT_RIP.git`.
+If this folder is still inside a larger Desktop repository, avoid also tracking `site/` as its own repository. Keeping both creates multiple project entries that all point to the same GDOT_RIP work.
